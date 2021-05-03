@@ -1,0 +1,4 @@
+Pronto("Este programa está echo en python: ")
+num_int = int("
+")
+num_input = input("")
